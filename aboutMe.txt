@@ -1,3 +1,6 @@
 Name: Omar Mendoza
 Project Goal: Master Git!
 Favorite TV Show: Silicon Valley
+Favorite Quote:
+"Art challenges technology, and technology inspires art."
+ - John Lasseter
